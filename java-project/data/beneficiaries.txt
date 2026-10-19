@@ -1,0 +1,4 @@
+PPC Energie (Enel);RO66BACX0000001234567890;Energie Electrică;Plată factură energie electrică
+Digi România (RCS & RDS);RO44INGB0000999900112233;Telecomunicații & Internet;Abonament fibră și telefonie
+Apa Nova București;RO21BRDE410SV11223344556;Apă și Canalizare;Factură utilități apă rece
+Trezoreria Statului (ANAF);RO90TREZ70020A470100XXXX;Taxe și Impozite;Plată obligații bugetare

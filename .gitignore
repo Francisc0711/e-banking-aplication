@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+out/
+coverage/
+.playwright-cli/
+.aistudio/
+.DS_Store
+*.log
+!**/data/audit.log
+.env*
+!.env.example

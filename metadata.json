@@ -1,0 +1,6 @@
+{
+  "name": "E-Banking Transaction Manager — Proiect Java & Simulator",
+  "description": "Aplicație Java completă și simulator interactiv pentru gestiunea tranzacțiilor în sistemele de e-banking, utilizând exclusiv fișiere text/binare, vectori și colecții Java.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
